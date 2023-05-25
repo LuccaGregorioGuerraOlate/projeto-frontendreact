@@ -2,7 +2,7 @@ import React from "react";
 
 function Items () {
     return (
-        <p>Items</p>
+        <div><b>Items</b> </div>
  ) 
 } 
 export default Items;
