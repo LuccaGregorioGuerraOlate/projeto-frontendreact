@@ -2,7 +2,7 @@ import React from "react";
 
 function Cart () {
     return (
-        <p>Cart</p>
+        <div><b>Cart</b> </div>
  ) 
 } 
 export default Cart;
